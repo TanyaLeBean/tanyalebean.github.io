@@ -1,9 +1,3 @@
----
-title: The Wicker System
-layout: template
-filename: index
----
-
 # Hello!
 We're the Wicker system.  
   
