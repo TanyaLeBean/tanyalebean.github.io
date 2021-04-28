@@ -1,7 +1,7 @@
 ---
 title: The Wicker System
 layout: template
-filename: index.md
+filename: index
 ---
 
 # Hello!
