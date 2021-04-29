@@ -1,5 +1,5 @@
 # Hello!
-We're the Wicker system.  
+We're the Wicker System.  
   
 
 ### Who are we?
@@ -8,7 +8,7 @@ about specific headmates on [our pages](https://tanyalebean.github.io/headmates/
 
 ### What are we doing?
 You can find out what we're doing at [our twitter](https://www.twitter.com/tanyathebean)
-most often, but I am trying to start a [blog](https://tanyalebean.github.io/blog).
+most often, but we are trying to start a [blog](https://tanyalebean.github.io/blog).
 
 ##### Testing site
 [Link](https://tanyalebean.github.io/thisisatest)
