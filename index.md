@@ -10,5 +10,8 @@ about specific headmates on [our pages](./headmates/)!
 You can find out what we're doing at [our twitter](https://www.twitter.com/thewickersys)
 most often, but we are trying to start a [blog](./blog).
 
+### [Reminders](./system-reminders)
+This is mostly for the system. Feel free to look though!
+<br /><br /><br /><br /><br />
 ##### Testing site
 [Link](./thisisatest)
